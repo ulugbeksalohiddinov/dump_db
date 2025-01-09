@@ -1,6 +1,6 @@
 # dump_db
 
-**Dump postgres db in k8s pods**
+**Dump Postgres db in k8s pods**
 
     kubectl exec -it <pod_name> -n <namespace> -- /bin/bash
     
